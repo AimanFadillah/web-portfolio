@@ -1,0 +1,80 @@
+/* CSS DEFAULT */
+
+* {
+    font-family: "Poppins", serif;
+}
+
+.DM { 
+    font-family: "DM Serif Display",serif;
+}
+
+*::-webkit-scrollbar {
+    display: none
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.navbar-toggler:active {
+    border: none !important
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.dropdown-item:active {
+    background-color: unset !important;
+    color: unset !important;
+}
+
+
+/* WARNA UTAMA */
+
+.text-primary {
+    color: #161616 !important
+}
+
+.bg-primary {
+    background-color: #161616 !important
+}
+
+.btn-primary {
+    background-color: #161616 !important;
+    border-color: #161616 !important;
+}
+
+/* WARNA PUTIH */
+
+.text-light {
+    color: #FEFEFE !important
+}
+
+.bg-light {
+    background-color: #FEFEFE !important
+}
+
+.btn-light {
+    background-color: #FEFEFE !important;
+    border-color: #FEFEFE !important;
+}
+
+/* WARNA ABU */
+
+.text-secondary {
+    color: #D9D9D9 !important
+}
+
+.bg-secondary {
+    background-color: #D9D9D9 !important
+}
+
+.btn-secondary {
+    background-color: #D9D9D9 !important;
+    border-color: #D9D9D9 !important;
+}
